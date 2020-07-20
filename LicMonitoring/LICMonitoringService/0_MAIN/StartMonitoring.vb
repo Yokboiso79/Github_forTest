@@ -64,6 +64,7 @@ Module StartMonitoring
         Console.WriteLine("========== 20200525 - 전자 CST 서버 추가 (172.20.100.114)               ========")
         Console.WriteLine("========== 20200617 - 금형 MOLDFLOW 서버 삭제 (203.250.10.25):해석 서버로 통합==")
         Console.WriteLine("========== 20200525 - 해석 CST 서버 추가 (203.250.10.50)                ========")
+        '20200720 Github Commit Test
 
         Dim strCategory As String = "Restart"
         oSysOp.SendMail(strCategory, "License Monitoring System Restart")
