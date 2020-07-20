@@ -1,0 +1,13 @@
+C:\SVN\LicMonitoring\LICMonitoringService\bin\Release\LICMonitoringService.exe.config
+C:\SVN\LicMonitoring\LICMonitoringService\bin\Release\LICMonitoringService.exe
+C:\SVN\LicMonitoring\LICMonitoringService\bin\Release\LICMonitoringService.pdb
+C:\SVN\LicMonitoring\LICMonitoringService\bin\Release\LICMonitoringService.xml
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Release\LICMonitoringService.Resources.resources
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Release\LICMonitoringService.vbproj.GenerateResource.Cache
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Release\LICMonitoringService.exe
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Release\LICMonitoringService.xml
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Release\LICMonitoringService.pdb
+C:\MyGithub\LicMonitoring\LICMonitoringService\bin\Release\LICMonitoringService.exe.config
+C:\MyGithub\LicMonitoring\LICMonitoringService\obj\Release\LICMonitoringService.exe
+C:\MyGithub\LicMonitoring\LICMonitoringService\obj\Release\LICMonitoringService.xml
+C:\MyGithub\LicMonitoring\LICMonitoringService\obj\Release\LICMonitoringService.pdb

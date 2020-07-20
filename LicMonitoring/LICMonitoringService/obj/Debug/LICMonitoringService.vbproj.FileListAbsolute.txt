@@ -1,0 +1,9 @@
+C:\SVN\LicMonitoring\LICMonitoringService\bin\Debug\LICMonitoringService.exe.config
+C:\SVN\LicMonitoring\LICMonitoringService\bin\Debug\LICMonitoringService.exe
+C:\SVN\LicMonitoring\LICMonitoringService\bin\Debug\LICMonitoringService.pdb
+C:\SVN\LicMonitoring\LICMonitoringService\bin\Debug\LICMonitoringService.xml
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Debug\LICMonitoringService.Resources.resources
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Debug\LICMonitoringService.vbproj.GenerateResource.Cache
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Debug\LICMonitoringService.exe
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Debug\LICMonitoringService.xml
+C:\SVN\LicMonitoring\LICMonitoringService\obj\Debug\LICMonitoringService.pdb

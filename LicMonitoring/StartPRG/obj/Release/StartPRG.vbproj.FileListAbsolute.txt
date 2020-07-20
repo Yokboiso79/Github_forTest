@@ -1,0 +1,9 @@
+C:\SVN\LicMonitoring\StartPRG\bin\Release\StartPRG.exe.config
+C:\SVN\LicMonitoring\StartPRG\bin\Release\StartPRG.exe
+C:\SVN\LicMonitoring\StartPRG\bin\Release\StartPRG.pdb
+C:\SVN\LicMonitoring\StartPRG\bin\Release\StartPRG.xml
+C:\SVN\LicMonitoring\StartPRG\obj\Release\StartPRG.Resources.resources
+C:\SVN\LicMonitoring\StartPRG\obj\Release\StartPRG.vbproj.GenerateResource.Cache
+C:\SVN\LicMonitoring\StartPRG\obj\Release\StartPRG.exe
+C:\SVN\LicMonitoring\StartPRG\obj\Release\StartPRG.xml
+C:\SVN\LicMonitoring\StartPRG\obj\Release\StartPRG.pdb
